@@ -1,0 +1,7 @@
+yolov5/*
+training_data/*
+traffic_signs_dataset/*
+*.pt
+*.zip
+*.yaml
+split_data.py
